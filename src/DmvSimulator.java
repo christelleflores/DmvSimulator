@@ -22,7 +22,7 @@ public class DmvSimulator {
 		}
 		
 		//tells the user they don't have the required and exits the program
-		System.out.println("You don't have the required documents! You have to make another appointment and come again. Make sure you have the required documents and look at the checklist a couple times before coming. You wasted our time and booked an opening when someone else could've came instead with everything prepared beforehand. The exit is that way. Goodbye!");
+		System.out.println("You don't have the required documents! You have to make another appointment and come again. Make sure you have the required documents and look at the checklist a couple times before coming. You wasted our time and booked an opening when someone else could've came instead with everything prepared beforehand. The exit is that way. Goodbye! Hahaha!");
 		
 	}
 
