@@ -12,8 +12,8 @@ public class DmvSimulator {
 		int result = rand.nextInt(high-low) + low;
 		System.out.println("Your number is: " + result + ". Please wait until your number is called.");
 	
-		//calls out numbers starting after the assigned random number to 100
-		for (int i = result + 1; i <= 100; i++) {
+		//calls out numbers starting after the assigned random number to 200
+		for (int i = result + 1; i <= 200; i++) {
 			System.out.println(i);
 		}
 		//calls out numbers from 1 to the assigned random number
